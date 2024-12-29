@@ -1,0 +1,10 @@
+galaxy_id,mass,abs_magnitude,has_planets,star
+1,1,4.85,Yes,Sun
+1,0.122,15.53,Yes,Proxima Centauri
+1,1.079,4.38,Yes,Rigil
+1,0.144,13.22,Yes,Barnard's Star
+1,0.032,14.2,Yes,Luhman
+1,0.09,16.55,Yes,Wolf
+
+
+
